@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/iaa-inc/gh-runner/compare/v1.0.1...v1.0.2) (2024-04-29)
+
+
+### Bug Fixes
+
+* software-properties-common ([97e2523](https://github.com/iaa-inc/gh-runner/commit/97e2523ec66c5213f82c2f7f11a5a5a7088c60e8))
+
 ## [1.0.1](https://github.com/iaa-inc/gh-runner/compare/v1.0.0...v1.0.1) (2024-04-29)
 
 
