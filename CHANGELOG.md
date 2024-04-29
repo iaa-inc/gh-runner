@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/iaa-inc/gh-runner/compare/v1.0.3...v1.0.4) (2024-04-29)
+
+
+### Miscellaneous Chores
+
+* ffs ([f221dc9](https://github.com/iaa-inc/gh-runner/commit/f221dc98c7c6bc240e29d2d24da55c575364cfc2))
+
 ## [1.0.3](https://github.com/iaa-inc/gh-runner/compare/v1.0.2...v1.0.3) (2024-04-29)
 
 
