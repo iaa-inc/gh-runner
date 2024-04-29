@@ -4,7 +4,7 @@ USER root
 
 # Install Python & other dependencies
 RUN apt-get update && apt-get install -y python3 python3-pip apt-transport-https \
-    ca-certificates curl file make jq unzip autoconf automake gcc g++ gnupg
+    ca-certificates curl file make jq unzip autoconf automake gcc g++ gnupg software-properties-common
 
 # Install NodeJS, and Yarn
 RUN curl -sL https://deb.nodesource.com/setup_20.x | bash - && \
