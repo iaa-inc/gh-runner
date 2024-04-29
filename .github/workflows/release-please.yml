@@ -23,5 +23,5 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           token: "${{ steps.generate-token.outputs.token }}"
-          package-name: IAA GH - Runner
+          package-name: Runner
           release-type: php
