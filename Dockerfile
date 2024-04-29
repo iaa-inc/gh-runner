@@ -14,10 +14,8 @@ RUN curl -sL https://deb.nodesource.com/setup_20.x | bash - && \
 RUN add-apt-repository ppa:ondrej/php
 
 # Install PHP & Extensions
-RUN apt install -y php8.3
-
-ADD --chmod=0755 https://github.com/mlocati/docker-php-extension-installer/releases/latest/download/install-php-extensions /usr/local/bin/
-RUN install-php-extensions ctype curl fileinfo json mbstring mysqli openssl pdo pgsql redis tokenizer xml zip bcmath soap gd pdo_sqlite
+RUN apt install -y php8.3 php8.3-cgi php8.3-cli php8.3-curl php8.3-dev php8.3-fpm php8.3-intl  \
+    php8.3-mbstring php8.3-mysql php8.3-opcache php8.3-phsql php8.3-xml php8.3-zip
 
 # Install Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
