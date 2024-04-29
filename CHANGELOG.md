@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/iaa-inc/gh-runner/compare/v1.0.5...v1.0.6) (2024-04-29)
+
+
+### Miscellaneous Chores
+
+* add git command ([a33dffe](https://github.com/iaa-inc/gh-runner/commit/a33dffe8a5b59c34586a869755bf41494ab255d7))
+
 ## [1.0.5](https://github.com/iaa-inc/gh-runner/compare/v1.0.4...v1.0.5) (2024-04-29)
 
 
