@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/iaa-inc/gh-runner/compare/v1.0.7...v1.0.8) (2025-04-17)
+
+
+### Bug Fixes
+
+* add php extensions required by portal ([#8](https://github.com/iaa-inc/gh-runner/issues/8)) ([ecfc9cd](https://github.com/iaa-inc/gh-runner/commit/ecfc9cddbdcacaba3008425e30c8d102336c2731))
+
 ## [1.0.6](https://github.com/iaa-inc/gh-runner/compare/v1.0.5...v1.0.6) (2024-04-29)
 
 
