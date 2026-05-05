@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.10](https://github.com/iaa-inc/gh-runner/compare/v1.0.9...v1.0.10) (2026-05-05)
+
+
+### Miscellaneous Chores
+
+* add php8.4-imagick ([1e84f0f](https://github.com/iaa-inc/gh-runner/commit/1e84f0fe3078033394aedaac0067acb573aa98e0))
+
 ## [1.0.9](https://github.com/iaa-inc/gh-runner/compare/v1.0.8...v1.0.9) (2025-09-08)
 
 
