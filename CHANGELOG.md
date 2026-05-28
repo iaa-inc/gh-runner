@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/iaa-inc/gh-runner/compare/v1.0.10...v1.0.11) (2026-05-28)
+
+
+### Miscellaneous Chores
+
+* **deps:** Bump nodejs version ([eaa3d14](https://github.com/iaa-inc/gh-runner/commit/eaa3d14aa7ca88454e99a4c605a893e2c22534b5))
+
 ## [1.0.10](https://github.com/iaa-inc/gh-runner/compare/v1.0.9...v1.0.10) (2026-05-05)
 
 
