@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y python3 python3-pip apt-transport-https
     git
 
 # Install NodeJS, and Yarn
-RUN curl -sL https://deb.nodesource.com/setup_20.x | bash - && \
+RUN curl -sL https://deb.nodesource.com/setup_24.x | bash - && \
     apt-get install -y nodejs && \
     npm install -g yarn
 
