@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.12](https://github.com/iaa-inc/gh-runner/compare/v1.0.11...v1.0.12) (2026-09-16)
+
+
+### Miscellaneous Chores
+
+* php8.5 ([94a14bd](https://github.com/iaa-inc/gh-runner/commit/94a14bd3a7bea58af7951e3c429f204d2d5fa368))
+
 ## [1.0.11](https://github.com/iaa-inc/gh-runner/compare/v1.0.10...v1.0.11) (2026-05-28)
 
 
